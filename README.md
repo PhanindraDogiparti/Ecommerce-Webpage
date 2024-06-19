@@ -16,6 +16,9 @@ Features:
 6)Responsive design for optimal viewing on various devices.
 
 Technologies Used:
+
 HTML,
+
 CSS,
+
 JavaScript.
